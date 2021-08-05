@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Undefined",BET HER
+#EXTINF:0 tvg-id="ext" group-title="Undefined",1 BET HER
 http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARURXUYP3euRjv5ttYSpUy1z/ts
 #EXTINF:0 tvg-id="BTN.us" group-title="Undefined",BIG TEN NETWORK
 http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARUAO-_dwjLEnm8nMy0q0WTX/ts
