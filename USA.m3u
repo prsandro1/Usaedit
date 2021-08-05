@@ -1,0 +1,130 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORT USA
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARW5Ptof-Nk9fKaTPvLp-ZCh/ts
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Sport",CBS SPORTS NETWORK
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARV8TN5IfkFarI7RTeVr7Bx6/ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",CBSN SPORTS NETWORK
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARWjD3_rxVFXivoEDwYeNzQl/ts
+#EXTINF:0 tvg-id="ext" group-title="Sport",-EUROSPORT
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/79621
+#EXTINF:0 tvg-id="ext" group-title="Sport",-Eurosport 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/79622
+#EXTINF:0 tvg-id="ext" group-title="Sport",-Skynet Sports 2 TH
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/57931
+
+#EXTINF:0 tvg-id="ext" group-title="Undefined",BET HER
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARURXUYP3euRjv5ttYSpUy1z/ts
+#EXTINF:0 tvg-id="BTN.us" group-title="Undefined",BIG TEN NETWORK
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARUAO-_dwjLEnm8nMy0q0WTX/ts
+#EXTINF:0 tvg-id="bloomberg" group-title="Undefined",BLOOMBERG
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXSGRRoF_v1ZfOxSexGtFFX/ts
+#EXTINF:0 tvg-id="boomerang" group-title="Undefined",BOOMERANG
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARWqKvsi817q1vbNHF6koEzC/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",BOUNCE TV
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARVwfz0S7_NyMOtoKci6S2p2/ts
+#EXTINF:0 tvg-id="Bravo.us" group-title="Undefined",BRAVO
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARUEoO9TIBkZ0el5gi0yoUSg/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",BUZZER
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARU01nyQBnKHxF0SevEV_d1D/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ITV 1 MERIDIAN TV NORTH
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwtZ9owCI8lO3R2LBY6iI8yGoCAwUMO_OUFE8UtKL_QFO/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ITV 1 MERIDIAN TV SOUTH
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwtZ9owCI8lO3R2LBY6iI8yEJsKCU_-JhelJvzSCvHbAI/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CINEMAX ACTION MAX EAST
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXFf-C6Fi5YXCtEbzf981Zf/ts
+#EXTINF:0 tvg-id="CinemaxActionMaxHDEast.us" group-title="Undefined",CINEMAX EAST
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARVhg8sEbOwp2i5wyZUb9oze/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CINEMAX MOVIEMAX
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXvMQ_NRzrgPnfzIVm0sqwG/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CINEMAX OUTER MAX
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARW1_V3Egwi9B72pmJfdBamg/ts
+#EXTINF:0 tvg-id="ThrillerMAXHD.us" group-title="Undefined",CINEMAX THRILLERMAX HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARUTmMyzeY-qTQLpsY1n5lFx/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",CINEMAXX MORE MAXX
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARWX_H_ofAfmZLRoQ3RMcWwY/ts
+#EXTINF:0 tvg-id="cnbc" group-title="Undefined",CNBC
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXTOM93dgkN2hqhBGGi1TTx/ts
+#EXTINF:0 tvg-id="cnn" group-title="Undefined",CNN
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXsRx7IoaLCYOL-dTbd6a4M/ts
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Undefined",COMEDY CENTRAL
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARVT3oaVC8xB2Do_hXa5YUt-/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",COMET TV
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARU97-PkJHn0dQPoIhluv8Qy/ts
+#EXTINF:0 tvg-id="cnbc" group-title="Undefined",CNBC
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXTOM93dgkN2hqhBGGi1TTx/ts
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="Undefined",COOKING CHANNEL HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARWjlZes9N6YfpRjJOSqw6iH/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",COZI TV
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARV0m-SdcNzpIklv1_EVB2nL/ts
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Undefined",CRIME AND INVESTIGATION
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARWn18rwg9mHrZpphEgXHdo0/ts
+#EXTINF:0 tvg-id="DestinationAmerica.us" group-title="Undefined",DESTINATION AMERICA
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARWZChRqmOBJscNn89CWU8Yj/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ITV 1 CENTRAL WEST 1
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwtZ9owCI8lO3R2LBY6iI8yEnZffckECt862fxIJW4mle/ts
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Undefined",DISCOVERY CHANNEL HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXLXmFe1MRb9O6r9tOwtx84/ts
+#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="Undefined",DISCOVERY FAMILY
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXWs0cdiLsXozKQPhtvsyqb/ts
+#EXTINF:0 tvg-id="Disney.uk" group-title="Undefined",DISNEY CHANNEL HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXYNyGHCfcsMODd7tEdb-7r/ts
+#EXTINF:0 tvg-id="WABCNewYorkABCHDEast.us" group-title="Undefined",ABC EAST HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARW0jiKMHLiGEegraiFAB6q3/ts
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Undefined",ABC NEWS HD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARWTtJ9GQmEL1RRPUIjSkGVY/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ABC NY FHD
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARURDhvo-fm7IHs7myRMzBB1/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",ABC WEST
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARUejKnb9dG3swSFe7JuHTMV/ts
+#EXTINF:0 tvg-id="mgm-int" group-title="Undefined",AMC
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARUTubt1kIrU4elKZq2g_FRz/ts
+#EXTINF:0 tvg-id="AmericanHeroesChannel.us" group-title="Undefined",AMERICAN HEROES CHANNEL
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARXlg4UfIcJKAZFdMp44BbjD/ts
+#EXTINF:0 tvg-id="animal_rus" group-title="Undefined",ANIMAL PLANET
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARV8BTWNF246N7ZIhGx33EOr/ts
+#EXTINF:0 tvg-id="AXSTV.us" group-title="Undefined",AXS TV
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARW6WtfSGvEWmOvWmgCFE1qF/ts
+#EXTINF:0 tvg-id="baby-tv" group-title="Undefined",BABY TV
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARVS1UPjr4F-h9RK_WazCiii/ts
+#EXTINF:0 tvg-id="BBCAmerica.us" group-title="Undefined",BBC AMERICA
+http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARUbdCVFQv8gcV7iCek_7jE2/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",01  UFC Fight Pass [Events Only]
+http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjLAlO2Y_ozn9L1No91j0j3tS2aNasW-FrefsgwtOhjqr/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",01  UFC Fight Pass [Events Only]
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l64LTaxVyqGKmUVum04T_svc/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",02 UFC Fight Pass [Events Only]
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l671duk1ijv1MD0I9twx2UAc/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",03 UFC Fight Pass [Events Only]
+http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjH15jGbD6vcMGK1A2i-1_l22Oyf1kUhtT3dWdw9BnzqM/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",03 UFC Fight Pass [Events Only]
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l65racw7O6jqDKwfgyx1o2U4/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",04 UFC Fight Pass [Events Only]
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l65FsQLT4DVNrR0Na1jmjruR/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",05 UFC Fight Pass [Events Only]
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l66PLKRxsOnvmdu6bjDFAzdu/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",06 UFC Fight Pass [Events Only]
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l64Oxpnx3W1NpnmUMrO5qaT4/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",07 UFC Fight Pass [Events Only]
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l67jEeQlvcG-Unt1zM2i2Rby/ts
+#EXTINF:0 tvg-id="ext" group-title="Undefined",07 UFC Fight Pass [Events Only]
+http://watchtv.one:8080/play/OsNMhiI1PxImiT_kL-KgjI0IGDzd7fMhRabbd_co89KfaIma6xQEPIllOCPmlZSt/ts
+
+#EXTINF:-1  tvg-id="HBOFamilyAsiaFeed.us" group-title="Family" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO Family [Asia Feed]
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1  tvg-id="HBOFamily.us" group-title="Family" tvg-logo="https://static.epg.best/us/HBOFamily.us.png",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1  tvg-id="ActionMAX.us" group-title="Movies" tvg-logo="https://i.imgur.com/Snba5W2.jpg",ActionMAX
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="Cinemax.us" group-title="Movies" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax
+http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?un=rommel07&tm=1626349319&sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb
+#EXTINF:-1  tvg-id="Cinemax.us" group-title="Movies" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="Cinemax.us" group-title="Movies" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax (360p)
+http://stream.tvtap.net:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:-1  tvg-id="Cinemax.us" group-title="Movies" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="HBOPREMIUM.us" group-title="Movies" tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
+https://s.vdo.ai/vhs/1.m3u8
+#EXTINF:-1  tvg-id="HBOSignature.us" group-title="Movies" tvg-logo="https://static.epg.best/us/HBOSignature.us.png",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
