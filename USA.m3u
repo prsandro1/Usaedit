@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Sport",1BEIN SPORT USA
+#EXTINF:0 tvg-id="ext" group-title="Sports",1BEIN SPORT USA
 http://mars.golemflixer.com:8080/play/Za3J4K_LNrWeNzb8JlBwwq5f8YTbZ6BEd8OFCKoEARW5Ptof-Nk9fKaTPvLp-ZCh/ts
-#EXTINF:0 tvg-id="ext" group-title="Sport",-EUROSPORT
+#EXTINF:0 tvg-id="ext" group-title="Sports",-EUROSPORT
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/79621
-#EXTINF:0 tvg-id="ext" group-title="Sport",-Eurosport 2
+#EXTINF:0 tvg-id="ext" group-title="Sports",-Eurosport 2
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/79622
-#EXTINF:0 tvg-id="ext" group-title="Sport",-Skynet Sports 2 TH
+#EXTINF:0 tvg-id="ext" group-title="Sports",-Skynet Sports 2 TH
 http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/57931
 
 #EXTINF:0 tvg-id="ext" group-title="Undefined",BET HER
